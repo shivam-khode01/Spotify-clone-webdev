@@ -7,12 +7,17 @@ In this repository, you'll find meticulously crafted HTML and CSS files that clo
 
 Key Features:
 
-Responsive Design: The front page is designed to adapt seamlessly to various screen sizes, ensuring a consistent user experience across devices.
-Modular Structure: HTML files are organized in a modular structure, making it easy to understand and modify individual components.
-Custom Styling: CSS stylesheets include custom styling to replicate the colors, typography, and layout of the Spotify front page.
-Accessible Code: Comments are provided throughout the codebase to enhance readability and facilitate understanding, making it accessible for developers of all skill levels.
-Easy to Use: Simply clone or download the repository, open the HTML file in your preferred web browser, and explore the Spotify-like experience right away.
-Contributions:
+1)Responsive Design: The front page is designed to adapt seamlessly to various screen sizes, ensuring a consistent user experience across devices.
+
+2)Modular Structure: HTML files are organized in a modular structure, making it easy to understand and modify individual components.
+
+3)Custom Styling: CSS stylesheets include custom styling to replicate the colors, typography, and layout of the Spotify front page.
+
+4)Accessible Code: Comments are provided throughout the codebase to enhance readability and facilitate understanding, making it accessible for developers of all skill levels.
+
+5)Easy to Use: Simply clone or download the repository, open the HTML file in your preferred web browser, and explore the Spotify-like experience right away.
+
+6)Contributions:
 Contributions and feedback are highly encouraged! Whether you want to suggest improvements, fix bugs, or add new features, feel free to fork the repository and submit pull requests. Together, we can make this Spotify clone front page even better.
 
 
